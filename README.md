@@ -1,6 +1,6 @@
 ## Hello, my name is <strong>Ramon Nobre!</strong>
 
-> I am 22 years old, currently working as a front-end developer for 2.5 years, passionate about my profession, enthusiastic about the best web development technologies.
+> I am 24 years old, currently working as a front-end developer for 2.5 years, passionate about my profession, enthusiastic about the best web development technologies.
 
 🔭 I have already worked on refactoring legacy projects and also new projects for the industrial area, I have refactored the entire layout of a legacy system for a multimillion dollar company in Germany, I have also implemented several differentiated features, such as: sensor graphics in real time, graphic design tool used for creating templates and presentations similar to Canva, I have worked with Redux, Context, Zustand, Hooks API among several other libraries.
 
